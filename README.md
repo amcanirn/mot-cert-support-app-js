@@ -3,6 +3,12 @@ This provides the frontend for the Timesheet manager support app for the Automat
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Prerequisites  
+
+Prior to running any scripts you need to install the node modules: 
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
